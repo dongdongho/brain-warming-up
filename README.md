@@ -1,3 +1,2 @@
-# euler
-This is for streching my brain
-https://euler.synap.co.kr/
+# Warm up!
+This is for warming up my brain
